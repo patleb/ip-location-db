@@ -1,0 +1,3 @@
+module IpLocationDb
+  # Your code goes here...
+end
